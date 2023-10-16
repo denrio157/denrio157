@@ -1,4 +1,4 @@
-<center>[![MasterHead](https://i.postimg.cc/rmRdCqJN/giphy.gif)](https://denrio157.com)</center>
+[![MasterHead](https://i.postimg.cc/gJ7TQH3P/giphy-downsized-large.gif)](https://denrio157.com)
 <h1 align="center">Hi 👋, I'm Denrio Vestasio Paskah.
   But you can call me "Denrio or Denz"</h1>
 <h3 align="center">An industrial engineer from Indonesia who is passionate about technology and the world of projects in the field of industry</h3>
