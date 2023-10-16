@@ -26,7 +26,7 @@
 <a href="https://fb.com/denrio157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denrio157" height="30" width="40" /></a>
 <a href="https://instagram.com/denrio157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denrio157" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/denrio157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="denrio157" height="30" width="40" /></a>
-<a href="https://discord.gg/denrio157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="denrio157" height="30" width="40" /></a>
+<a href="https://discord.gg/3X4H8p54hC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="denrio157" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
