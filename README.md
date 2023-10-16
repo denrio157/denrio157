@@ -1,5 +1,6 @@
 [![MasterHead](https://i.postimg.cc/76xN9shL/image.png)](https://denrio157.com)
-<h1 align="center">Hi 👋, I'm Denrio Vestasio Paskah. But you can call me "Denrio or Denz"</h1>
+<h1 align="center">Hi 👋, I'm Denrio Vestasio Paskah.</h1>
+<h2 align="center">You can call me "Denrio or Denz"</h2>
 <h3 align="center">An industrial engineer from Indonesia who is passionate about technology and the world of projects in the field of industry</h3>
 <img align="right" alt="Coding" width="400" src="https://clipart-library.com/images_k/construction-worker-silhouette-vector/construction-worker-silhouette-vector-4.png">
 
