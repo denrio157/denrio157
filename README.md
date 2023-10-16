@@ -1,11 +1,10 @@
-[![MasterHead](https://i.postimg.cc/rmRdCqJN/giphy.gif)](https://denrio157.com)
-<h1 align="center">Hi 👋, I'm Denrio Vestasio Paskah. But you can call me "Denrio or Denz"</h1>
+<center>[![MasterHead](https://i.postimg.cc/rmRdCqJN/giphy.gif)](https://denrio157.com)</center>
+<h1 align="center">Hi 👋, I'm Denrio Vestasio Paskah.
+  But you can call me "Denrio or Denz"</h1>
 <h3 align="center">An industrial engineer from Indonesia who is passionate about technology and the world of projects in the field of industry</h3>
 <img align="right" alt="Coding" width="400" src="https://clipart-library.com/images_k/construction-worker-silhouette-vector/construction-worker-silhouette-vector-4.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denrio157&label=Profile%20views&color=0e75b6&style=flat" alt="denrio157" /> </p>
 
-<p align="left"> <a href="https://twitter.com/denrio157" target="blank"><img src="https://img.shields.io/twitter/follow/denrio157?logo=twitter&style=for-the-badge" alt="denrio157" /></a> </p>
 
 - 🔭 I’m currently working on [EOW](Soon will be update on my website.)
 
